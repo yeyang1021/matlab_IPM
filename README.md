@@ -1,4 +1,6 @@
-The information about IPM can be found in https://blog.csdn.net/yeyang911/article/details/51915348
+The detail information about IPM can be found in 
+https://blog.csdn.net/yeyang911/article/details/51915348
+https://blog.csdn.net/yeyang911/article/details/51912322
 
 You need use setup.m firstly!
 Run GetIPMImage.m, then you can obtain the result as follow:
